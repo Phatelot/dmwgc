@@ -31,7 +31,7 @@
 	<tspan dy="1%" x="15%" text-anchor="middle">1lb is split between them and their group</tspan>
 	<tspan dy="4%" x="15%" text-anchor="middle" class="not-so-small">*</tspan>
 	<tspan dy="1%" x="15%" text-anchor="middle">1lb goes to monster Falin</tspan>
-	<tspan dy="3%" x="15%" text-anchor="middle"><a class="link-tree-link" href="https://buymeacoffee.com/ebcart">Click here to fatten your favorite</a></tspan>
+	<tspan dy="3%" x="15%" text-anchor="middle"><a class="link-tree-link" href="https://beacons.ai/ebcartwork">Click here to fatten your favorite</a></tspan>
   </text>
   <image x="16%" y="9%" height="12%" xlink:href="{waterCanPng}" />
 {/if}
