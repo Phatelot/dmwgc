@@ -37,7 +37,7 @@
 </text>
 
 <text x="50%" y="83.5%" text-anchor="middle">
-	<a class="big link-tree-link" href="https://buymeacoffee.com/ebcart">Click here to make a dono</a>
+	<a class="big link-tree-link" href="https://beacons.ai/ebcartwork">Click here to make a dono</a>
 	<tspan x="50%" dy="4%" class="smallgrey">(Only comment the character name)</tspan>
 </text>
 
